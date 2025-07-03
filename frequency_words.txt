@@ -101,6 +101,8 @@ l3
 黄油
 !食物
 
+galgame
+
 Bilibili
 B站
 
